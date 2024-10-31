@@ -7,5 +7,5 @@ Cybersecurity and data privacy 2024 KSavu
 | :---         |     :---:      |          ---:       |
 | 30.10.2024   | 1,5            | Kick-Off lecture    |
 |30.10.2024    | 1              | Cisco Course pt 1   |
-|31.10.2024    |
+|31.10.2024    | 2              | Cisco Course completed|
  
